@@ -160,7 +160,7 @@ export const Notification = ({ closeButton, path }) => {
               <div className="p-4 text-center bg-[#FFF3E0] text-black">
                 <h4 className="font-bold text-lg mb-1">{user?.name},</h4>
                 <p className="text-sm">
-                  Welcome to Corpzo! You have no notifications yet.
+                  Welcome to VAYUZ! You have no notifications yet.
                 </p>
               </div>
             )}

@@ -123,7 +123,7 @@ export const Signup = () => {
           <DualHeadingTwo
             containerClassName={"text-left pt-2"}
             heading={"Sign up"}
-            subHeading={"Welcome to CorpZo. Please sign up here!"}
+            subHeading={"Welcome to VAYUZ. Please sign up here!"}
           />
           <form
             onSubmit={handleSubmit(onSubmit)}

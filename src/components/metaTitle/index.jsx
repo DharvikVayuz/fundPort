@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 
-const projectName = "Corpzo";
+const projectName = "VAYUZ";
 
 export const MetaTitle = ({ title }) => {
   useEffect(() => {
