@@ -214,7 +214,7 @@ const History = () => {
         <div ref={contentRef} className="bg-white rounded-2xl space-y-6">
           {/* Header */}
           <div className="p-6 flex items-center justify-between border-b pb-4">
-            <img src="/CorpZLogo-011.png" alt="CorpZ Logo" className="h-10" />
+            <img src="/VAYUZ (WHite Strokes).png" alt="CorpZ Logo" className="h-10" />
             <div className="flex items-center gap-3">
               <img
                 src="/icons/dashboard/business.svg"

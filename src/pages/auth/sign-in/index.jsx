@@ -140,7 +140,7 @@ export const SignIn = () => {
       <MetaTitle title={"Sign in"} />
       <AuthLayout>
         <div className="mx-4 md:mx-0">
-          <img src="/CorpZLogo-011.png" alt="CORPZO Logo" width={200} />
+          <img src="/Black Strokes Logo.png" alt="VAYUZ logo" width={200} />
           <DualHeadingTwo
             containerClassName={"text-left pt-2"}
             heading={"Sign in"}

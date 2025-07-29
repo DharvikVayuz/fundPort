@@ -146,7 +146,7 @@ export const Verify = () => {
       <MetaTitle title={"Verify"} />
       <AuthLayout>
         {/* className="sm:w-32 w-36" */}
-        <img src="/CorpZLogo-011.png" alt="CORPZO Logo" width={200} />
+        <img src="/VAYUZ (WHite Strokes).png" alt="VAYUZ logo" width={200} />
         <div className="w-full flex">
           <div className="w-full">
             <div className="flex flex-col justify-between">

@@ -71,7 +71,7 @@ export const CreateNewPassword = () => {
       <MetaTitle title={isOtpScreen ? "Verify OTP" : "Create New Password"} />
       <AuthLayout>
         {/* className="sm:w-32 w-36" */}
-        <img src="/CorpZLogo-011.png" alt="CORPZO Logo" width={200} />
+        <img src="/Black Strokes Logo.png" alt="VAYUZ logo" width={200} />
         <div className="flex flex-col justify-between">
           <DualHeadingTwo
             containerClassName={"text-left pt-5"}

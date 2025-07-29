@@ -115,7 +115,7 @@ export const ForgotPassword = () => {
       <MetaTitle title={isOtpScreen ? "Verify OTP" : "Forgot password"} />
       <AuthLayout>
         {/* className="sm:w-32 w-36" */}
-        <img src="/CorpZLogo-011.png" alt="CORPZO Logo" width={200} />
+        <img src="/Black Strokes Logo.png" alt="VAYUZ logo" width={200} />
         <div className="w-full">
           <div className="w-full ">
             <div className="flex flex-col justify-between ">
