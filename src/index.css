@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+button:focus,
+input:focus,
+textarea:focus {
+  outline: none;
+}
+
+/* Removes outer buttton in Input */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+/* For IE, Edge and Firefox */
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+@font-face {
+  font-family: 'MarsCondensed';
+  src: url('./fonts/marscondensed-regular-TRIAL.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Hide scrollbar but keep scrolling */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+[data-test-id="button-close"] {
+  display: none;
+}
