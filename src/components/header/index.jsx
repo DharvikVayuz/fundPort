@@ -180,12 +180,12 @@ export const Header = ({ className, collapse, setCollapse }) => {
             <Link className="hidden lg:block" to={"/"}>
               <img
                 className="block dark:hidden min-w-10"
-                src="/corpzo-logo-sm.svg"
+                src="/vayuzfavicon.ico"
                 alt="corpzo-logo"
               />
               <img
                 className="hidden dark:block min-w-10"
-                src="/corpzo-logo-sm.svg"
+                src="/vayuzfavicon.ico"
                 alt="corpzo-logo"
               />
             </Link>
@@ -208,12 +208,12 @@ export const Header = ({ className, collapse, setCollapse }) => {
             <Link to={"/"}>
               <img
                 className="block dark:hidden min-w-10"
-                src="/corpzo-logo-sm.svg"
+                src="/vayuzfavicon.ico"
                 alt="corpzo-logo"
               />
               <img
                 className="hidden dark:block min-w-10"
-                src="/corpzo-logo-sm.svg"
+                src="/vayuzfavicon.ico"
                 alt="corpzo-logo"
               />
               {profile ? (
